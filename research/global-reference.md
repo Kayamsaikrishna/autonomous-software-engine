@@ -10,7 +10,7 @@
 
 This document is organized into **5 major sections**:
 
-1. **Tier 1 Startups** — Companies building autonomous AI software engineers (closest to your vision)
+1. **Tier 1 Startups** — Companies building autonomous AI software engineers (closest to my vision)
 2. **Tier 2 Startups** — Companies building AI coding assistants and app builders (adjacent space)
 3. **Big Tech Initiatives** — What the giants are doing in this space
 4. **Global Research Labs & Universities** — Academic institutions actively publishing on this
